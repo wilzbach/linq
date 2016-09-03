@@ -18,7 +18,7 @@ LINQ   | D
 -------|-----
 [`Select`](https://msdn.microsoft.com/en-us/library/bb384087.aspx) | [`map`](http://dlang.org/phobos/std_algorithm_iteration.html#.map)
 [`SelectMany`](https://msdn.microsoft.com/en-us/library/bb534336.aspx) |=
-Anonoymous Types | Tuples
+Anonoymous Types | [Tuples](https://dlang.org/phobos/std_typecons.html#.tuple)
 Indexed | [`enumerate`](http://dlang.org/phobos/std_range.html#enumerate)
 
 ```
